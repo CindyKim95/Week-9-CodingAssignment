@@ -1,0 +1,2 @@
+Hello! This week's coding assignment consists of creating a website using HTML and Bootstrap that must include at least 2 pages, a Boostrap navbar, table, and form, also the elements should stack vertically when the window is small.
+I have created a website for ordering holiday cards as this is the perfect time for people to get their cards ordered and mailed out to their loved ones. I also used some CSS styling. Enjoy!
